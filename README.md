@@ -1,10 +1,10 @@
-# 📱 Application Screenshots
+# Application Screenshots
 
-## 🏠 Home Page
-![Home Page](./assets/shot1.png)
+##  Home Page
+![Home Page](assets/shot1.png)
 
 ## 🖼️ Art List Page
-![Art List Page](./assets/shot2.png)
+![Art List Page](assets/shot2.png)
 
 ## ℹ️ Details Page
-![Details Page](./assets/shot3.png)
+![Details Page](assets/shot3.png)
